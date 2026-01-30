@@ -46,3 +46,8 @@ include/ – header files
 
 ## 👨‍💻 Author
 Manchuri Sai Venkat
+
+## 📷 Hardware Setup
+Circuit image will be added after physical testing.
+
+
